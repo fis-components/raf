@@ -1,0 +1,12 @@
+{
+    "name": "raf",
+    "description": "requestAnimationFrame polyfill for node and the browser",
+    "repos": "https://github.com/chrisdickinson/raf.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "performance-now": "~0.2.0"
+    },
+    "version": "3.1.0"
+}
